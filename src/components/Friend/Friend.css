@@ -1,0 +1,21 @@
+.friend {
+    margin: 20px;
+    padding: 20px;
+    width: 25%;
+    background-color: rgb(63, 5, 114);
+    color: aqua;
+    float: left;
+    text-align: center;
+    border: 2px solid rgb(224, 14, 14);
+    border-radius: 10px;
+}
+
+.button{
+    background: aqua;
+    color: rgb(63, 5, 114);
+    border: 1px solid red;
+    border-radius: 5px;
+    width: 100px;
+    padding: 5px;
+    text-decoration: none;
+}
